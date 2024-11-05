@@ -26,7 +26,7 @@
 [submodule "eclipse.platform.ui"]
   path = eclipse.platform.ui
   url = https://github.com/elsazac/eclipse.platform.ui.git
-  branch = test
+  branch = bundle2
 [submodule "equinox.binaries"]
   path = equinox.binaries
   url = https://github.com/eclipse-equinox/equinox.binaries.git
