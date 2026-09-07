@@ -123,7 +123,7 @@ pipeline {
 				axes {
 					axis { // environment variable is also used by called scripts!
 						name 'PROJECT'
-						values 'platform', 'jdt', 'pde'
+						values 'platform'
 					}
 				}
 				stages {
